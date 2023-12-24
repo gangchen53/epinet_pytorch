@@ -10,5 +10,5 @@ BP Ratio: 11.17%
 
 The training curve is as follows:
 
-![training_curve](results\2022_08_27_18_55_45\training_curve.jpg)
+![training_curve](results/2022_08_27_18_55_45/training_curve.jpg)
 
