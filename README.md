@@ -4,8 +4,8 @@ I used PyTorch to implement EPINet, but the test results are somewhat different 
 
 The test results are as follows:
 
-MAE: 0.0539
-MSE_x100: 2.48%
+MAE: 0.0539,
+MSE_x100: 2.48%,
 BP Ratio: 11.17%
 
 The training curve is as follows:
